@@ -1,2 +1,2 @@
 # CaesarCipher
-Caesar Cipher. Written in C#
+Caesar Cipher using ROT13. Written in C#
